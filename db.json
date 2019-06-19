@@ -1,0 +1,5 @@
+{
+    "products":[{"id":1, "name":"vivo", "price":30000, "count":0},
+        {"id":2, "name":"samsung", "price":40000, "count":0},
+        {"id":3, "name":"iphone", "price":50000, "count":0}]
+}
